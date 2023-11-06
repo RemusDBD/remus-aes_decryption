@@ -1,4 +1,4 @@
-# remus-aes_decryption
+# remus-aes_encryption_and_decryption
 my personal script
 
 For those who are just starting, I recommend trying out <b>Version 1</b> initially to become acquainted with it.
