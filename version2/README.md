@@ -1,3 +1,6 @@
+<b>For those who are just starting, I recommend trying out Version1 initially to become acquainted with it.</b>
+
+In Version2
 Now we have more rubust functions :
 
 Input Verification:
