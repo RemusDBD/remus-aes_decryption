@@ -16,3 +16,4 @@ Security Best Practices:
 You should always use version2 to en/decrypt your stuff to prevent potential security vulnerabilities
 
 <h2>Please be noted that Version1 and 2 MUST NOT be use interchangeably.</h2>
+<h4>Read twice before you impletement anything</h4>
