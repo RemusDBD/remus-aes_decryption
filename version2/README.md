@@ -14,3 +14,5 @@ Security Best Practices:
     The code is designed to protect the secret key and ensure that plaintext and secret key entries are validated.
 
 You should always use version2 to en/decrypt your stuff to prevent potential security vulnerabilities
+
+<h2>Please be noted that Version1 and 2 MUST NOT be use interchangeably.</h2>
