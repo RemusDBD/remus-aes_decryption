@@ -7,5 +7,6 @@ It utilizes <b>ECB mode</b>, as opposed to CBC or GCM, meaning that no Initializ
 
 For personal use, I believe it offers sufficient functionality for safeguarding passwords and is exceptionally user-friendly once you become accustomed to it.
 
-However, please be aware that this script should not be your primary tool, as it may lack some security features found in Version 2.
-Once you are comfortable with Version 1, I encourage you to explore to my version2 and 3
+However, please be aware that these scripts should not be your only tool. You also take your responsibility to keep your private key safety.
+
+I use self-contained Python package for cryptography so the script do not store or transmit your data anywhere else.
